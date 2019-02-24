@@ -1,5 +1,6 @@
 ## 미로 탐색 프로그램입니다.
-실행 동영상 : https://www.youtube.com/watch?v=WFXpCkqSsKQ <br>
+실행 동영상 : https://www.youtube.com/watch?v=WFXpCkqSsKQ
+<br>
 사용자는 미로를 직접 만들거나 불러올 수 있고, 경로 탐색을 통해 출구가 있는 지와 최단 거리를 알 수 있습니다.
 경로 탐색한 뒤 자신이 지정한 예상 경로와 비교해 볼 수도 있습니다. 미로를 무작위로 생성하거나 저장할 수도 있습니다.
 
